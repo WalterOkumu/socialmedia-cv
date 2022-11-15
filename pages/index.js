@@ -22,8 +22,8 @@ export default function Home() {
           <Top></Top>
         </div>
         <Cards></Cards>
-        <Form></Form>
-        <Testemunhos></Testemunhos>
+        {/*<Form></Form>
+        <Testemunhos></Testemunhos>*/}
       </main>
     </div>
   )
